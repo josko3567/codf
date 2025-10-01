@@ -1,6 +1,6 @@
 # Computer Optimized Data Format
 
-Specifications & a library implementation (in C++23) of my data format with the acronym *CODF*, *Computer Optimized Data Format*.
+Specifications & a library implementation (in *Rust*) of my data format with the acronym *CODF*, *Computer Optimized Data Format*.
 
 Prolog
 ------
@@ -18,8 +18,3 @@ Specifications
 --------------
 
 For specs, head over to [specs.md](./misc/specs/specs.md) in ./misc/specs/.
-
-Tooling
--------
-
-Future tools for editing CODF will be stored in [./tools](./tools)
